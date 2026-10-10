@@ -68,3 +68,9 @@ my-agent/
 In daily production use since June 2026 at Hangzhou Zhenbao Trading Co., Ltd.
 
 Source code will be added after sanitisation.
+
+## Contact
+
+Open to custom AI agent builds for sales and content teams.
+
+Maggie Yue · Hangzhou Zhenbao Trading Co., Ltd. · [sales@zhenbaotrading.com](mailto:sales@zhenbaotrading.com)
